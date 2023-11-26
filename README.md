@@ -35,15 +35,3 @@ To get started with the Nishan React app, follow these steps:
     ```
 
 5. Access the app in your web browser by visiting [http://localhost:3000](http://localhost:3000).
-
-## About Nishan
-
-Nishan is a React app [brief description of what the app does, its features, or purpose].
-
-## Contributing
-
-If you would like to contribute to this project, feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
